@@ -35,6 +35,7 @@ Proveer commit y proveer mensaje descriptivo
 ![foto17](img/17.png)
 Crear repositorio en GitHub
 El link del repositorio creado es: https://github.com/carohavenstein/demo2tp01
+
 Asociar local con remoto
 ![foto18](img/18.png)
 ![foto19](img/19.png)
@@ -119,4 +120,6 @@ Ver opciones de seguridad de la rama
 
 #### Algunos ejercicios online
 Entrar a la página https://learngitbranching.js.org/
+
 Completar los ejercicios **Introduction Sequence**
+![foto61](img/61.png)
